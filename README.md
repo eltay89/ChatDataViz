@@ -2,7 +2,7 @@
 
 ## 🌟 Overview
 
-DataWhisper is an innovative, AI-driven application that combines the power of natural language processing with data analysis and visualization. It serves as your personal data assistant, allowing you to interact with your datasets through simple conversations and generate insights effortlessly.
+ChatDataViz is an innovative, AI-driven application that combines the power of natural language processing with data analysis and visualization. It serves as your personal data assistant, allowing you to interact with your datasets through simple conversations and generate insights effortlessly.
 
 ## 🚀 Features
 
